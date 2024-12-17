@@ -1,0 +1,8 @@
+site_name: "java-ms"
+site_description: "Java Microservice"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
